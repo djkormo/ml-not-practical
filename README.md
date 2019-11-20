@@ -1,1 +1,1 @@
-# ml-not-practical
+Some examples of using machine learning 
